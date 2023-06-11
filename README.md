@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Mitesh
 
-
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
@@ -16,6 +15,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -23,6 +23,8 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -32,7 +34,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
+
   <br/>
 
 <a href="https://github.com/mitesh2205">
@@ -49,6 +51,5 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="mailto:chhatbarmitesh20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chhatbarmitesh20@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 </br>
-
 
 ⭐️ From [mitesh2205](https://github.com/mitesh2205)
