@@ -14,6 +14,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=go&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)
 - 🌐 &nbsp;
@@ -28,6 +29,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -42,7 +44,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://github.com/mitesh2205">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitesh2205&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitesh2205&theme=buefy&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mitesh2205&theme=buefy" />
 </a>
 
 <br/>
