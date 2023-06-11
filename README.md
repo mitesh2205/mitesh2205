@@ -42,7 +42,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://github.com/mitesh2205">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitesh2205&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitesh2205&theme=buefy&layout=compact" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mitesh2205&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mitesh2205&theme=buefy" />
 </a>
 
 <br/>
