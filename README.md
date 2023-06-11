@@ -34,12 +34,15 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Atoms](https://img.shields.io/badge/-Atoms-333333?style=flat&logo=atom&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
 
   <br/>
 
 <a href="https://github.com/mitesh2205">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitesh2205&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitesh2205&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mitesh2205&theme=buefy" />
 </a>
 
 <br/>
@@ -47,6 +50,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+<a href="https://mitesh-chhatbar.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-mitesh--chhatbar.web.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="http://instagram.com/mitesh_chhatbar"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mitesh_chhatbar-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:chhatbarmitesh20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chhatbarmitesh20@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
