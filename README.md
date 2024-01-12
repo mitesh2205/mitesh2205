@@ -5,7 +5,6 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at <a href="https://viterbischool.usc.edu/">University of Southern California (USC) </a>.
-- 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development Full Time opportunity from January 2024.
 - 🗒️Download my <a href="https://mitesh-chhatbar.web.app/Mitesh%20Chhatbar%20SDE.pdf">Resume.
 
